@@ -5,7 +5,7 @@ const elts = {
 
 const texts = [
     "Happy",
-    "Woman's",
+    "Women's",
     "Day",
     "My",
     "Love",
